@@ -1,0 +1,12 @@
+Algoritmo para compartir información de forma responsable
+
+1. Recibir una publicación o noticia en internet.
+2. Leer la información completa antes de reaccionar o compartirla.
+3. Revisar quién publicó la información.
+4. Verificar la fecha de publicación.
+5. Buscar la misma información en otra fuente confiable.
+6. Analizar si el contenido puede causar daño o confusión.
+7. Decidir si se comparte o no se comparte la información.
+
+Si la información es confiable, se puede compartir.
+Si la información no se puede verificar, no se debe compartir.
