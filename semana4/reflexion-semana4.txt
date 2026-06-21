@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan crear herramientas tecnológicas propias usando tecnologías abiertas como Node.js.
+Esto les permite construir soluciones según sus necesidades reales y no depender siempre de plataformas externas.
+Node.js ayuda a crear servidores y organizar la lógica interna de una aplicación.
+Con herramientas abiertas, más personas pueden aprender, adaptar y mejorar los proyectos.
+También se pueden crear plataformas para informar, registrar datos o apoyar procesos comunitarios.
+Esto fortalece la participación porque la tecnología se convierte en una herramienta útil para la comunidad.
+Además, permite comprender mejor cómo funcionan las aplicaciones que usamos todos los días.
+Por eso, aprender Node.js puede ayudar a crear soluciones digitales con propósito social.
