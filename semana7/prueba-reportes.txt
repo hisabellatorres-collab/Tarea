@@ -1,0 +1,17 @@
+Prueba de consulta de reportes
+
+Al enviar un reporte usando la ruta POST /reportes, el servidor recibe los datos enviados por el usuario y los guarda en un array llamado reportes.
+
+Luego, al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados en formato JSON.
+
+Ejemplo de respuesta esperada:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto demuestra que la API puede registrar información y luego permitir su consulta.

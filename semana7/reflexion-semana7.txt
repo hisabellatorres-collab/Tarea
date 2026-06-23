@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica.
+Esto permite organizar mejor la información sobre problemas o necesidades del territorio.
+Cuando los reportes quedan registrados, es más fácil hacer seguimiento a cada caso.
+También se evita que la información se pierda en conversaciones o publicaciones desordenadas.
+Una plataforma puede ayudar a clasificar los reportes por tipo, fecha o descripción.
+Además, facilita que varias personas consulten la información de forma clara.
+Esto fortalece la participación ciudadana y el control comunitario.
+Por eso, una API de reportes puede ser útil para mejorar la organización y la transparencia.
