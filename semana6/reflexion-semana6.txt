@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes ciudadanos de forma estructurada.
+Cuando la información llega organizada, es más fácil revisarla, clasificarla y darle seguimiento.
+El uso de JSON permite que los datos tengan un formato claro para el sistema.
+Además, req.body ayuda a recibir la información que envía el usuario en una petición POST.
+Esto puede servir para reportar problemas, alertas o necesidades de una comunidad.
+También evita que la información se pierda en mensajes desordenados o publicaciones sueltas.
+Una plataforma bien organizada puede ayudar a tomar mejores decisiones.
+Por eso, recibir datos estructurados fortalece la participación y el control ciudadano.
