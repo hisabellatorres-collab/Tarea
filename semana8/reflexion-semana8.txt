@@ -1,0 +1,8 @@
+La seguridad digital es importante para proteger plataformas tecnológicas usadas por comunidades.
+Estas plataformas pueden manejar información sensible, reportes o datos de participación ciudadana.
+Si no se cuidan las credenciales, los permisos y los accesos, la información puede quedar expuesta.
+También se puede perder la confianza de las personas que usan la plataforma.
+Por eso es necesario usar contraseñas seguras y no compartir claves de acceso.
+Además, se deben limitar los permisos según la función de cada usuario.
+Una plataforma segura permite que la comunidad participe con mayor tranquilidad.
+La seguridad digital ayuda a proteger la información, la continuidad del servicio y la confianza comunitaria.

@@ -1,0 +1,18 @@
+Información del sistema
+
+Comando ejecutado: uname -a
+Resultado:
+Linux codespaces-1d1c0d 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Explicación:
+El comando uname -a muestra información del sistema operativo, como el tipo de sistema, versión del kernel y arquitectura.
+
+Comando ejecutado: whoami
+Resultado:
+codespace
+
+Explicación:
+El comando whoami muestra el nombre del usuario actual que está usando la terminal.
+
+Utilidad:
+Conocer esta información es importante cuando se administra un servidor porque permite identificar el entorno de trabajo, el sistema usado y el usuario activo. Esto ayuda a trabajar con más control, orden y seguridad.
