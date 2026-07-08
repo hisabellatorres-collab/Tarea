@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar mejor el trabajo de una comunidad o equipo de veeduría.
+El backlog permite priorizar las tareas más importantes y saber qué está pendiente.
+Las iteraciones permiten avanzar poco a poco, revisar errores y mejorar el proyecto.
+También ayudan a que el equipo no espere hasta el final para probar una solución.
+La automatización con herramientas como n8n puede apoyar tareas repetitivas y avisos de seguimiento.
+Telegram puede servir como canal rápido para coordinar al equipo y enviar notificaciones.
+Sin embargo, estas herramientas deben usarse sin exponer datos personales o sensibles.
+Por eso, la tecnología debe apoyar la organización comunitaria con responsabilidad y revisión humana.

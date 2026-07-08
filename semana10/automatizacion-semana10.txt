@@ -1,0 +1,15 @@
+Automatización simple con n8n y Telegram
+
+Evento que activa el flujo:
+Un nuevo reporte comunitario es registrado en la plataforma.
+
+Acción:
+n8n recibe el evento y envía una notificación a un grupo de Telegram del equipo de seguimiento.
+
+Mensaje que se enviaría a Telegram:
+Nuevo reporte recibido. Revisar sistema para hacer seguimiento.
+
+Información que no debería enviarse por seguridad:
+No se deben enviar nombres completos, documentos de identidad, direcciones, teléfonos, claves, tokens, datos personales ni información sensible.
+
+Esta automatización sirve como apoyo para coordinar al equipo, pero siempre debe existir revisión humana antes de tomar decisiones.
