@@ -1,0 +1,7 @@
+El login en una aplicación permite identificar a un usuario antes de darle acceso a ciertas funciones.
+Esto ayuda a proteger la información y evitar que cualquier persona entre a zonas privadas del sistema.
+Algunas rutas deben estar protegidas porque pueden contener registros internos o acciones importantes.
+Por ejemplo, no todos los usuarios deberían poder editar, eliminar o administrar información.
+La autenticación permite diferenciar entre usuarios comunes, coordinadores y administradores.
+No se deben exponer públicamente contraseñas, documentos de identidad, direcciones, teléfonos, tokens ni claves de API.
+Proteger estos datos ayuda a cuidar la privacidad y la confianza de la comunidad.
