@@ -1,0 +1,24 @@
+Modelo de datos simple
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+La entidad Causa sirve para guardar la información principal de una petición comunitaria. Permite registrar el tema, explicar la situación y conservar la fecha en la que fue creada.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+La entidad Apoyo sirve para registrar las personas que apoyan una causa. El campo causa_id permite relacionar cada apoyo con una causa específica y así contar la participación ciudadana.

@@ -1,0 +1,8 @@
+Durante el curso aprendí que la tecnología puede servir para fortalecer la participación ciudadana.
+Una plataforma digital puede ayudar a organizar causas, reportes, apoyos y evidencias comunitarias.
+También aprendí que no basta con crear una herramienta, porque debe ser clara, segura y responsable.
+El uso de bases de datos permite guardar información de forma ordenada para hacer seguimiento.
+La autenticación y los roles ayudan a proteger el acceso a funciones importantes.
+La automatización con herramientas como n8n o Telegram puede apoyar la coordinación del equipo.
+Sin embargo, siempre se deben cuidar los datos personales y usar información no sensible.
+Para mí, lo más importante fue entender que la tecnología puede apoyar a la comunidad cuando se usa con responsabilidad.
